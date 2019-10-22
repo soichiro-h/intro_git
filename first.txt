@@ -8,3 +8,6 @@ git commit
 
 git status
 git log
+
+
+こっちも編集しちゃうよ〜
