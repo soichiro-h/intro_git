@@ -3,5 +3,5 @@ training for git
 
 Updated !!
 
-
-
+git add .
+git commit
